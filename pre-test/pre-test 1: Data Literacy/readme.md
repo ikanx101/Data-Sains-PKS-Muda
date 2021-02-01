@@ -22,7 +22,7 @@ Selamat mengerjakan\!
 ## Dataset yang Digunakan
 
 Di dalam *folder* ini, teman-teman akan menemukan satu file *excel*
-berjudul `pretest_1.xlsx` berisi 3 *sheets*, yakni:
+berjudul `Scenario 01.xlsx` berisi 3 *sheets*, yakni:
 
 1.  data murid
 2.  ujian matematika
