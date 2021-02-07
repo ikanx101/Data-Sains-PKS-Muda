@@ -1,7 +1,3 @@
----
-title: "Mengenal Data dan Pengelompokannya"
----
-
 # Assalamualaikum
 
 Karena kita akan mendalami _data science_, maka akan sangat enting untuk memahami dan megerti terlebih dahulu istilah __data__.
