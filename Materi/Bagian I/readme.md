@@ -1,21 +1,12 @@
 ---
-date: 2020-08-27T09:10:00-04:00
 title: "Mengenal Data dan Pengelompokannya"
-categories:
-  - Blog
-tags:
-  - Data
-  - Quantitative
-  - Qualitative
-  - Primer
-  - Sekunder
-  - Survey
-  - R
 ---
 
-Mungkin istilah **data** menjadi sangat populer belakangan ini. Tapi,
-sebenarnya apa *sih* data itu? Salah satu definisi yang paling sering
-saya gunakan adalah:
+# Assalamualaikum
+
+Karena kita akan mendalami _data science_, maka akan sangat enting untuk memahami dan megerti terlebih dahulu istilah __data__.
+
+Tapi, sebenarnya apa *sih* data itu? Salah satu definisi yang paling sering saya gunakan adalah:
 
 > Data adalah *representasi faktual dari suatu observasi*.
 
